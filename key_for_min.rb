@@ -20,4 +20,3 @@ if name_hash.length == 0
     end
   end
 end
-end
